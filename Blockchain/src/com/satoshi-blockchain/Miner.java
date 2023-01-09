@@ -1,4 +1,4 @@
-package com.globalsoftwaresupport;
+package com.satoshi-blockhain;
 
 public class Miner {
 	
